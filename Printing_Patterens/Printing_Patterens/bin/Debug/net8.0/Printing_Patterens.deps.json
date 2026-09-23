@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Printing_Patterens/1.0.0": {
+        "runtime": {
+          "Printing_Patterens.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Printing_Patterens/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

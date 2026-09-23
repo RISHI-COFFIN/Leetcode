@@ -1,0 +1,14 @@
+F:\C# - DEMO\DSA_C#\Printing_Patterens\Printing_Patterens\bin\Debug\net8.0\Printing_Patterens.exe
+F:\C# - DEMO\DSA_C#\Printing_Patterens\Printing_Patterens\bin\Debug\net8.0\Printing_Patterens.deps.json
+F:\C# - DEMO\DSA_C#\Printing_Patterens\Printing_Patterens\bin\Debug\net8.0\Printing_Patterens.runtimeconfig.json
+F:\C# - DEMO\DSA_C#\Printing_Patterens\Printing_Patterens\bin\Debug\net8.0\Printing_Patterens.dll
+F:\C# - DEMO\DSA_C#\Printing_Patterens\Printing_Patterens\bin\Debug\net8.0\Printing_Patterens.pdb
+F:\C# - DEMO\DSA_C#\Printing_Patterens\Printing_Patterens\obj\Debug\net8.0\Printing_Patterens.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# - DEMO\DSA_C#\Printing_Patterens\Printing_Patterens\obj\Debug\net8.0\Printing_Patterens.AssemblyInfoInputs.cache
+F:\C# - DEMO\DSA_C#\Printing_Patterens\Printing_Patterens\obj\Debug\net8.0\Printing_Patterens.AssemblyInfo.cs
+F:\C# - DEMO\DSA_C#\Printing_Patterens\Printing_Patterens\obj\Debug\net8.0\Printing_Patterens.csproj.CoreCompileInputs.cache
+F:\C# - DEMO\DSA_C#\Printing_Patterens\Printing_Patterens\obj\Debug\net8.0\Printing_Patterens.dll
+F:\C# - DEMO\DSA_C#\Printing_Patterens\Printing_Patterens\obj\Debug\net8.0\refint\Printing_Patterens.dll
+F:\C# - DEMO\DSA_C#\Printing_Patterens\Printing_Patterens\obj\Debug\net8.0\Printing_Patterens.pdb
+F:\C# - DEMO\DSA_C#\Printing_Patterens\Printing_Patterens\obj\Debug\net8.0\Printing_Patterens.genruntimeconfig.cache
+F:\C# - DEMO\DSA_C#\Printing_Patterens\Printing_Patterens\obj\Debug\net8.0\ref\Printing_Patterens.dll
